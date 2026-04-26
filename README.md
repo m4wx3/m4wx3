@@ -1,7 +1,7 @@
 # 👋 Hey!
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,lua,html,css,react,next,nodejs,tailwind,robloxstudio,mongodb,git,figma,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,lua,html,css,react,next,nodejs,tailwind,robloxstudio,mongodb,git,figma,supabase)](https://skillicons.dev)
 
 
 # Stats
